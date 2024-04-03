@@ -14,26 +14,9 @@ Logistic haritası, bir populasyonun zaman içindeki değişimini modellemek iç
 - Logistic haritasının dinamik davranışlarını görselleştirmek.
 - Logistic haritasının uygulama alanlarını incelemek.
 
-## Proje İçeriği
+## Sonuç
 
-- **kod:** Python programlama dili kullanılarak logistic haritasının hesaplanması ve görselleştirilmesi için kod dosyalarını içerir.
-- **raporlar:** Projenin ayrıntılı raporlarını içerir.
-- **veri:** Gerekli verilerin saklandığı dosyaları içerir.
-
-## Kullanım
-
-Projenin kullanımı için Python yüklü olmalıdır. Anaconda gibi bir Python dağıtımı kullanmanız tavsiye edilir. Proje dosyalarını indirdikten sonra, terminal veya komut istemcisinde proje dizinine gidin ve `python main.py` komutunu çalıştırarak projeyi başlatabilirsiniz.
-
-## Katkılar
-
-Bu projeye katkıda bulunmak isterseniz, bir Pull Request (Çekme İsteği) göndermekten çekinmeyin. Büyük değişiklikler yapmadan önce, lütfen tartışmak için bir konu açın.
-
-## Lisans
-
-Bu proje, MIT Lisansı altında lisanslanmıştır. Daha fazla bilgi için [LİSANS](LICENSE) dosyasına bakın.
-
-
-
+-N-tier bir yapı üzerinde Logistic Map görselleştirilip, kullanıcıya sunulacaktır. Bu projenin sadece bir parçasıdır, 30 adet üzerinde kaotik harita ile görselleştirme hedeflenmektedir.
 
 ## SWOT Analizi for Logistic Map
 
